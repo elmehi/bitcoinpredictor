@@ -1,0 +1,13 @@
+(bitcoin OR blockchain OR cryptocurrency)
+bitcoin (value OR price OR prices) 
+bitcoin (blockchain OR miner OR dollar)
+bitcoin (smart OR bank OR BTC)
+bitcoin (economy OR currency OR wallet)
+BTC (economy OR USD OR dollar OR wallet OR currency OR price)
+mining ("data center" OR algorithm)
+(etherium OR litecoin OR altcoin)
+("mt gox" OR Coindesk OR coinbase OR Pymnts OR CoinTelegraph OR Augur)
+from:Bitcoin OR from:BitcoinMagazine OR from:BitcoinPosts OR from:BitcoinForums    
+from:Coinsecure OR from:blockchain OR from:coin_fox OR from:CryptorTrust
+from:BitcoinEdu OR from:bitcoinest OR from:BitcoinOfficial
+  
