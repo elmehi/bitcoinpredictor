@@ -1,1 +1,1 @@
-web: gunicorn  quotedSearch.wsgi --log-file -
+web: gunicorn  server --log-file -
