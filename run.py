@@ -33,9 +33,15 @@ app = Eve()
 @app.route('/hello')
 def hello_world():
     print("hi")
-    for i in range(10):
-        return i
+    # for i in range(10):
+        # return i
     return 'hello world!'
+
+def scrape():
+    for i in range(10):
+        print(i)
+    return
 
 if __name__ == '__main__':
     app.run(host=host, port=port)
+    scrape()
