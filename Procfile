@@ -1,1 +1,1 @@
-web: python run-hello.py
+web: python run-simple.py
