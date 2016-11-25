@@ -32,6 +32,9 @@ app = Eve()
 
 @app.route('/hello')
 def hello_world():
+    print("hi")
+    for i in range(10):
+        return i
     return 'hello world!'
 
 if __name__ == '__main__':
