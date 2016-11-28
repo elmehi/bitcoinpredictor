@@ -32,10 +32,10 @@ def getTweets(query, date):
     
     try:     
         tweet = got3.manager.TweetManager.getTweets(tweetCriteria)
-        tweetTo_d(tweet[0])
+        # tweetTo_d(tweet[0])
         return tweet
     except Exception as e:
-        f.write(e + '\n')
+        f.write(str(e) + '\n')
 
 def tweetTo_d(tweet):
     # assert len(tweet) == 1
