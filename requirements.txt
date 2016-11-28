@@ -1,9 +1,2 @@
-gunicorn==19.4.5
-whitenoise==3.0
-numpy==1.10.4
-httplib2==0.9.2
-simplejson==3.8.2
-scikit-learn==0.17.1
-lxml==3.5.0
 pyquery==1.2.10
 pymongo==3.2.2
