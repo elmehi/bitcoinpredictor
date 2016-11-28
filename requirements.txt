@@ -1,6 +1,8 @@
 gunicorn==19.4.5
-scipy==0.17.0
 whitenoise==3.0
+numpy==1.10.4
+scipy==0.17.0
+psycopg2==2.6.1
 httplib2==0.9.2
 simplejson==3.8.2
 scikit-learn==0.17.1
