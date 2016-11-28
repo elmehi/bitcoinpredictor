@@ -16,7 +16,9 @@
 """
 
 import os
-from eve import Eve
+# from eve import Eve
+from flask import Flask
+
 
 # Heroku support: bind to PORT if defined, otherwise default to 5000.
 if 'PORT' in os.environ:
@@ -28,7 +30,8 @@ else:
     port = 5000
     host = '127.0.0.1'
 
-app = Eve()
+# app = Eve()
+app = Flask(__name__)
 
 @app.route('/hello')
 def hello_world():
