@@ -3,6 +3,8 @@ from pprint import pprint
 import got3
 from pymongo import MongoClient
 
+f = open('errorfile', 'w') 
+
 queries = [
     'bitcoin%20',
     'bitcoin%20value%20OR%20price%20OR%20prices%20',
@@ -33,7 +35,7 @@ def getTweets(query, date):
         tweetTo_d(tweet[0])
         return tweet
     except Exception as e:
-        print(e)
+        f.write(e + '\n')
 
 def tweetTo_d(tweet):
     # assert len(tweet) == 1
@@ -58,12 +60,15 @@ def checkTwitter(date):
     db = client['local']
     for query in queries:
         results = getTweets(query, date)
+        if results == None: 
+            f.write("no results" + '\n')
+            continue
         for tweet in results:
             pprint(tweet)
             result = db.twitter.insert_one(tweetTo_d(tweet))
     return result
 
-def processResults(search_date, endDate):    
+def processResults(search_date, endDate): 
     d_date_results = {}
     while search_date <= endDate:
         results = checkTwitter(search_date)
