@@ -2,7 +2,6 @@ chardet==2.2.1
 colorama==0.2.5
 cssselect==1.0.0
 html5lib==0.999
-language-selector==0.1
 lxml==3.6.4
 pycurl==7.19.3
 pygobject==3.12.0
