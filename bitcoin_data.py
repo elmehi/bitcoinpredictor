@@ -134,7 +134,7 @@ def multiRun():
         for retweets_min in RMs:
             for window_size in WSs:
                 for mt in MTs:
-                    return predictBitcoins(start_date, retweets_min, window_size, mt, minutes_before)
+                    predictBitcoins(start_date, retweets_min, window_size, mt, minutes_before)
 
 def singleRun():
     start_date = dt(2016, 8, 1, 0, 0, 0)
