@@ -45,7 +45,7 @@ def getTweets(query, date):
         f.write(str(e) + '\n')
 
 def modify(text):
-    return re.split('http', 'abcdefhttpsdf')[0]
+    return re.split('http', text)[0]
 
 
 def tweetTo_d(tweet):
