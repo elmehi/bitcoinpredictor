@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 # from pprint import pprint
 import got3
 from pymongo import MongoClient
-import regex as re
+import re
 
 f = open('errorfile', 'w') 
 
