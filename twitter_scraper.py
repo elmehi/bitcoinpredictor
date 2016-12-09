@@ -1,7 +1,14 @@
+'''
+some ideas:
+1. only store items with more than 2 retweets (this should decrease the amount gather by 1/10 but request many more iterms and search for many more terms
+2. search for fewer items
+'''
+
 from datetime import datetime, timedelta
-from pprint import pprint
+# from pprint import pprint
 import got3
 from pymongo import MongoClient
+import regex as re
 
 f = open('errorfile', 'w') 
 
@@ -37,13 +44,17 @@ def getTweets(query, date):
     except Exception as e:
         f.write(str(e) + '\n')
 
+def modify(text):
+    return re.split('http', 'abcdefhttpsdf')[0]
+
+
 def tweetTo_d(tweet):
     # assert len(tweet) == 1
     tweet_d = {}
     tweet_d['id'] = tweet.id
     tweet_d['permalink'] = tweet.permalink
     tweet_d['username'] = tweet.username
-    tweet_d['text'] = tweet.text
+    tweet_d['text'] = modify(tweet.text)
     tweet_d['date'] = tweet.date 
     tweet_d['fromatted_date'] = tweet.formatted_date
     tweet_d['retweets'] = tweet.retweets
@@ -64,8 +75,7 @@ def checkTwitter(date):
             f.write("no results" + '\n')
             continue
         for tweet in results:
-            pprint(tweet)
-            result = db.twitter.insert_one(tweetTo_d(tweet))
+            result = db.twitter_two.insert_one(tweetTo_d(tweet))
     return result
 
 def processResults(search_date, endDate): 
