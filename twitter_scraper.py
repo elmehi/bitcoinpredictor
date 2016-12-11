@@ -75,7 +75,7 @@ def checkTwitter(date):
             f.write("no results" + '\n')
             continue
         for tweet in results:
-            result = db.twitter_two.insert_one(tweetTo_d(tweet))
+            result = db.twitter.insert_one(tweetTo_d(tweet))
     return result
 
 def processResults(search_date, endDate): 
