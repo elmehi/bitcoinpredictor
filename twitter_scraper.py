@@ -32,14 +32,17 @@ def getTweets(query, date, user):
     n = 30
     d_start = str(date)
     d_end = str(date + timedelta(1))
-    description =  d_start + '\n' + query
+    description =  d_start + '\n'
     username = user
-    print(description)
+    print(description,)
 
     tweetCriteria = got3.manager.TweetCriteria().setSince(d_start).setUntil(d_end).setMaxTweets(n)
-    if user != 0:  tweetCriteria.setUsername(username)
-    if query != 0: tweetCriteria.setQuerySearch(query)
-
+    if user != 0:  
+        print(username)
+        tweetCriteria.setUsername(username)
+    if query != 0: 
+        tweetCriteria.setQuerySearch(query)
+        print(query)
     try:     
         tweet = got3.manager.TweetManager.getTweets(tweetCriteria)
         # tweetTo_d(tweet[0])
