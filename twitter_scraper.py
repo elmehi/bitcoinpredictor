@@ -22,21 +22,24 @@ queries = [
     'mining%20"data%20center"%20OR%20algorithm%20',
     'etherium%20OR%20litecoin%20OR%20altcoin%20',
     'mt%20gox"%20OR%20Coindesk%20OR%20coinbase%20OR%20Pymnts%20OR%20CoinTelegraph%20OR%20Augur%20',
-    # 'from%3ABitcoin%20OR%20from%3ABitcoinMagazine%20OR%20from%3ABitcoinPosts%20OR%20from%3ABitcoinForums%20',
-    # 'from%3ACoinsecure%20OR%20from%3Ablockchain%20OR%20from%3Acoin_fox%20OR%20from%3ACryptorTrust%20',
-    # 'from%3ABitcoinEdu%20OR%20from%3Abitcoinest%20OR%20from%3ABitcoinOfficial%20'
     ]
 
+users = ['BitcoinMagazine', 'BitcoinPosts', 'BitcoinForums', 'Coinsecure', 'coin_fox','CryptorTrust'
+'BitcoinEdu','bitcoinest','BitcoinOfficial']
+
 '''  -------------------------------------------------------------------------------- '''
-def getTweets(query, date):
+def getTweets(query, date, user):
     n = 30
     d_start = str(date)
     d_end = str(date + timedelta(1))
     description =  d_start + '\n' + query
+    username = user
     print(description)
 
-    tweetCriteria = got3.manager.TweetCriteria().setQuerySearch(query).setSince(d_start).setUntil(d_end).setMaxTweets(n)
-    
+    tweetCriteria = got3.manager.TweetCriteria().setSince(d_start).setUntil(d_end).setMaxTweets(n)
+    if user != 0:  tweetCriteria.setUsername(username)
+    if query != 0: tweetCriteria.setQuerySearch(query)
+
     try:     
         tweet = got3.manager.TweetManager.getTweets(tweetCriteria)
         # tweetTo_d(tweet[0])
@@ -70,7 +73,14 @@ def checkTwitter(date):
     client = MongoClient("mongodb://104.236.1.250:27017")
     db = client['local']
     for query in queries:
-        results = getTweets(query, date)
+        results = getTweets(query, date, 0)
+        if results == None: 
+            f.write("no results" + '\n')
+            continue
+        for tweet in results:
+            result = db.twitter.insert_one(tweetTo_d(tweet))
+    for user in users:
+        results = getTweets(0, date, user)
         if results == None: 
             f.write("no results" + '\n')
             continue
