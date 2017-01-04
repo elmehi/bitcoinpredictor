@@ -29,7 +29,7 @@ users = ['BitcoinMagazine', 'BitcoinPosts', 'BitcoinForums', 'Coinsecure', 'coin
 
 '''  -------------------------------------------------------------------------------- '''
 def getTweets(query, date, user):
-    n = 30
+    n = 40
     d_start = str(date)
     d_end = str(date + timedelta(1))
     description =  d_start + '\n'
@@ -38,11 +38,11 @@ def getTweets(query, date, user):
 
     tweetCriteria = got3.manager.TweetCriteria().setSince(d_start).setUntil(d_end).setMaxTweets(n)
     if user != 0:  
-        print(username)
+        print('user:', username)
         tweetCriteria.setUsername(username)
     if query != 0: 
+        print('query:', query)
         tweetCriteria.setQuerySearch(query)
-        print(query)
     try:     
         tweet = got3.manager.TweetManager.getTweets(tweetCriteria)
         # tweetTo_d(tweet[0])
