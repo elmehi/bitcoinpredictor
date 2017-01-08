@@ -73,22 +73,24 @@ def tweetTo_d(tweet):
     return tweet_d
 
 def checkTwitter(date):
-    client = MongoClient("mongodb://104.236.1.250:27017")
-    db = client['local']
+    db = MongoClient("mongodb://104.236.1.250:27017")['bitcoin_scraped']
+    db.authenticate('meir', '', source='bitcoin_scraped')
+    collection = db['scraped1']
+
     for query in queries:
         results = getTweets(query, date, 0)
         if results == None: 
             f.write("no results" + '\n')
             continue
         for tweet in results:
-            result = db.twitter.insert_one(tweetTo_d(tweet))
+            result = collection.insert_one(tweetTo_d(tweet))
     for user in users:
         results = getTweets(0, date, user)
         if results == None: 
             f.write("no results" + '\n')
             continue
         for tweet in results:
-            result = db.twitter.insert_one(tweetTo_d(tweet))
+            result = collection.insert_one(tweetTo_d(tweet))
     return result
 
 def processResults(search_date, endDate): 
