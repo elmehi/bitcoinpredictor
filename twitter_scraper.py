@@ -100,7 +100,7 @@ def processResults(search_date, endDate):
 
 def main():
     now = datetime.utcnow().date()
-    start_date = datetime(2016, 8, 2).date() 
+    start_date = datetime(2016, 1, 1).date() 
     end_date = now
     processResults(start_date, end_date)
 
