@@ -86,7 +86,7 @@ def getDelta(df, date, delta_minutes, cutoff):
     t1 = date
     t2 = date + np.timedelta64(delta_minutes,'m')
     p1 = getNearest(t1, df)
-    p2 = getNearest(t2, df2)
+    p2 = getNeareste(t2, df2)
     m = p2-p1
     if m > cutoff: return 2
     if m < -cutoff: return 0

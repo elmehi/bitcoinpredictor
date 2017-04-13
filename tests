@@ -1,0 +1,1440 @@
+start date:  2016-06-01 00:00:00
+minutes after:  200
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 31458
+=====crossval:======
+Accuracy: 0.58 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  200
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 31458
+=====crossval:======
+Accuracy: 0.56 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  300
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 31458
+=====crossval:======
+Accuracy: 0.58 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  300
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 31458
+=====crossval:======
+Accuracy: 0.56 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  400
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 31458
+=====crossval:======
+Accuracy: 0.59 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  400
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 31458
+=====crossval:======
+Accuracy: 0.57 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  600
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 31458
+=====crossval:======
+Accuracy: 0.54 (+/- 0.00)
+start date:  2016-06-01 00:00:00
+minutes after:  600
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 31458
+=====crossval:======
+Accuracy: 0.52 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  200
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 8436
+=====crossval:======
+Accuracy: 0.58 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  200
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 8436
+=====crossval:======
+Accuracy: 0.58 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  300
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 8436
+=====crossval:======
+Accuracy: 0.58 (+/- 0.00)
+start date:  2016-06-01 00:00:00
+minutes after:  300
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 8436
+=====crossval:======
+Accuracy: 0.57 (+/- 0.02)
+start date:  2016-06-01 00:00:00
+minutes after:  400
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 8436
+=====crossval:======
+Accuracy: 0.57 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  400
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 8436
+=====crossval:======
+Accuracy: 0.57 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  600
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 8436
+=====crossval:======
+Accuracy: 0.51 (+/- 0.02)
+start date:  2016-06-01 00:00:00
+minutes after:  600
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 8436
+=====crossval:======
+Accuracy: 0.50 (+/- 0.02)
+start date:  2016-06-01 00:00:00
+minutes after:  200
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 1500
+=====crossval:======
+Accuracy: 0.56 (+/- 0.02)
+start date:  2016-06-01 00:00:00
+minutes after:  200
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 1500
+=====crossval:======
+Accuracy: 0.58 (+/- 0.03)
+start date:  2016-06-01 00:00:00
+minutes after:  300
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 1500
+=====crossval:======
+Accuracy: 0.58 (+/- 0.02)
+start date:  2016-06-01 00:00:00
+minutes after:  300
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 1500
+=====crossval:======
+Accuracy: 0.58 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  400
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 1500
+=====crossval:======
+Accuracy: 0.57 (+/- 0.04)
+start date:  2016-06-01 00:00:00
+minutes after:  400
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 1500
+=====crossval:======
+Accuracy: 0.57 (+/- 0.02)
+start date:  2016-06-01 00:00:00
+minutes after:  600
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 1500
+=====crossval:======
+Accuracy: 0.51 (+/- 0.01)
+start date:  2016-06-01 00:00:00
+minutes after:  600
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 1500
+=====crossval:======
+Accuracy: 0.52 (+/- 0.02)
+start date:  2016-06-01 00:00:00
+minutes after:  200
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 826
+=====crossval:======
+Accuracy: 0.55 (+/- 0.08)
+start date:  2016-06-01 00:00:00
+minutes after:  200
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 826
+=====crossval:======
+Accuracy: 0.55 (+/- 0.05)
+start date:  2016-06-01 00:00:00
+minutes after:  300
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 826
+=====crossval:======
+Accuracy: 0.58 (+/- 0.04)
+start date:  2016-06-01 00:00:00
+minutes after:  300
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 826
+=====crossval:======
+Accuracy: 0.59 (+/- 0.02)
+start date:  2016-06-01 00:00:00
+minutes after:  400
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 826
+=====crossval:======
+Accuracy: 0.60 (+/- 0.05)
+start date:  2016-06-01 00:00:00
+minutes after:  400
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 826
+=====crossval:======
+Accuracy: 0.61 (+/- 0.02)
+start date:  2016-06-01 00:00:00
+minutes after:  600
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 826
+=====crossval:======
+Accuracy: 0.54 (+/- 0.03)
+start date:  2016-06-01 00:00:00
+minutes after:  600
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5054982370105384 percent neg: 0.4945017629894615
+regular grabbing tweets
+# of tweets 826
+=====crossval:======
+Accuracy: 0.54 (+/- 0.03)
+start date:  2016-07-01 00:00:00
+minutes after:  200
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 25437
+=====crossval:======
+Accuracy: 0.56 (+/- 0.02)
+start date:  2016-07-01 00:00:00
+minutes after:  200
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 25437
+=====crossval:======
+Accuracy: 0.55 (+/- 0.03)
+start date:  2016-07-01 00:00:00
+minutes after:  300
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 25437
+=====crossval:======
+Accuracy: 0.56 (+/- 0.02)
+start date:  2016-07-01 00:00:00
+minutes after:  300
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 25437
+=====crossval:======
+Accuracy: 0.54 (+/- 0.04)
+start date:  2016-07-01 00:00:00
+minutes after:  400
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 25437
+=====crossval:======
+Accuracy: 0.56 (+/- 0.02)
+start date:  2016-07-01 00:00:00
+minutes after:  400
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 25437
+=====crossval:======
+Accuracy: 0.54 (+/- 0.03)
+start date:  2016-07-01 00:00:00
+minutes after:  600
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 25437
+=====crossval:======
+Accuracy: 0.52 (+/- 0.01)
+start date:  2016-07-01 00:00:00
+minutes after:  600
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 25437
+=====crossval:======
+Accuracy: 0.51 (+/- 0.02)
+start date:  2016-07-01 00:00:00
+minutes after:  200
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 6474
+=====crossval:======
+Accuracy: 0.57 (+/- 0.01)
+start date:  2016-07-01 00:00:00
+minutes after:  200
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 6474
+=====crossval:======
+Accuracy: 0.57 (+/- 0.02)
+start date:  2016-07-01 00:00:00
+minutes after:  300
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 6474
+=====crossval:======
+Accuracy: 0.56 (+/- 0.02)
+start date:  2016-07-01 00:00:00
+minutes after:  300
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 6474
+=====crossval:======
+Accuracy: 0.55 (+/- 0.02)
+start date:  2016-07-01 00:00:00
+minutes after:  400
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 6474
+=====crossval:======
+Accuracy: 0.55 (+/- 0.01)
+start date:  2016-07-01 00:00:00
+minutes after:  400
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 6474
+=====crossval:======
+Accuracy: 0.54 (+/- 0.03)
+start date:  2016-07-01 00:00:00
+minutes after:  600
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 6474
+=====crossval:======
+Accuracy: 0.51 (+/- 0.01)
+start date:  2016-07-01 00:00:00
+minutes after:  600
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 6474
+=====crossval:======
+Accuracy: 0.51 (+/- 0.03)
+start date:  2016-07-01 00:00:00
+minutes after:  200
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 1156
+=====crossval:======
+Accuracy: 0.55 (+/- 0.01)
+start date:  2016-07-01 00:00:00
+minutes after:  200
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 1156
+=====crossval:======
+Accuracy: 0.57 (+/- 0.03)
+start date:  2016-07-01 00:00:00
+minutes after:  300
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 1156
+=====crossval:======
+Accuracy: 0.58 (+/- 0.03)
+start date:  2016-07-01 00:00:00
+minutes after:  300
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 1156
+=====crossval:======
+Accuracy: 0.56 (+/- 0.03)
+start date:  2016-07-01 00:00:00
+minutes after:  400
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 1156
+=====crossval:======
+Accuracy: 0.56 (+/- 0.03)
+start date:  2016-07-01 00:00:00
+minutes after:  400
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 1156
+=====crossval:======
+Accuracy: 0.56 (+/- 0.04)
+start date:  2016-07-01 00:00:00
+minutes after:  600
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 1156
+=====crossval:======
+Accuracy: 0.51 (+/- 0.03)
+start date:  2016-07-01 00:00:00
+minutes after:  600
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 1156
+=====crossval:======
+Accuracy: 0.52 (+/- 0.03)
+start date:  2016-07-01 00:00:00
+minutes after:  200
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 654
+=====crossval:======
+Accuracy: 0.56 (+/- 0.00)
+start date:  2016-07-01 00:00:00
+minutes after:  200
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 654
+=====crossval:======
+Accuracy: 0.55 (+/- 0.06)
+start date:  2016-07-01 00:00:00
+minutes after:  300
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 654
+=====crossval:======
+Accuracy: 0.60 (+/- 0.04)
+start date:  2016-07-01 00:00:00
+minutes after:  300
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 654
+=====crossval:======
+Accuracy: 0.60 (+/- 0.02)
+start date:  2016-07-01 00:00:00
+minutes after:  400
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 654
+=====crossval:======
+Accuracy: 0.60 (+/- 0.07)
+start date:  2016-07-01 00:00:00
+minutes after:  400
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 654
+=====crossval:======
+Accuracy: 0.60 (+/- 0.03)
+start date:  2016-07-01 00:00:00
+minutes after:  600
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 654
+=====crossval:======
+Accuracy: 0.55 (+/- 0.04)
+start date:  2016-07-01 00:00:00
+minutes after:  600
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5053666709504838 percent neg: 0.4946333290495162
+regular grabbing tweets
+# of tweets 654
+=====crossval:======
+Accuracy: 0.55 (+/- 0.04)
+start date:  2016-08-01 00:00:00
+minutes after:  200
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 19431
+=====crossval:======
+Accuracy: 0.57 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  200
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 19431
+=====crossval:======
+Accuracy: 0.56 (+/- 0.02)
+start date:  2016-08-01 00:00:00
+minutes after:  300
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 19431
+=====crossval:======
+Accuracy: 0.61 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  300
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 19431
+=====crossval:======
+Accuracy: 0.59 (+/- 0.02)
+start date:  2016-08-01 00:00:00
+minutes after:  400
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 19431
+=====crossval:======
+Accuracy: 0.60 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  400
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 19431
+=====crossval:======
+Accuracy: 0.60 (+/- 0.02)
+start date:  2016-08-01 00:00:00
+minutes after:  600
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 19431
+=====crossval:======
+Accuracy: 0.56 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  600
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 19431
+=====crossval:======
+Accuracy: 0.55 (+/- 0.02)
+start date:  2016-08-01 00:00:00
+minutes after:  200
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 4708
+=====crossval:======
+Accuracy: 0.56 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  200
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 4708
+=====crossval:======
+Accuracy: 0.56 (+/- 0.03)
+start date:  2016-08-01 00:00:00
+minutes after:  300
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 4708
+=====crossval:======
+Accuracy: 0.61 (+/- 0.00)
+start date:  2016-08-01 00:00:00
+minutes after:  300
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 4708
+=====crossval:======
+Accuracy: 0.60 (+/- 0.02)
+start date:  2016-08-01 00:00:00
+minutes after:  400
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 4708
+=====crossval:======
+Accuracy: 0.60 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  400
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 4708
+=====crossval:======
+Accuracy: 0.60 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  600
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 4708
+=====crossval:======
+Accuracy: 0.55 (+/- 0.02)
+start date:  2016-08-01 00:00:00
+minutes after:  600
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 4708
+=====crossval:======
+Accuracy: 0.54 (+/- 0.03)
+start date:  2016-08-01 00:00:00
+minutes after:  200
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 854
+=====crossval:======
+Accuracy: 0.59 (+/- 0.02)
+start date:  2016-08-01 00:00:00
+minutes after:  200
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 854
+=====crossval:======
+Accuracy: 0.60 (+/- 0.03)
+start date:  2016-08-01 00:00:00
+minutes after:  300
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 854
+=====crossval:======
+Accuracy: 0.61 (+/- 0.00)
+start date:  2016-08-01 00:00:00
+minutes after:  300
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 854
+=====crossval:======
+Accuracy: 0.61 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  400
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 854
+=====crossval:======
+Accuracy: 0.61 (+/- 0.03)
+start date:  2016-08-01 00:00:00
+minutes after:  400
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 854
+=====crossval:======
+Accuracy: 0.60 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  600
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 854
+=====crossval:======
+Accuracy: 0.54 (+/- 0.03)
+start date:  2016-08-01 00:00:00
+minutes after:  600
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 854
+=====crossval:======
+Accuracy: 0.57 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  200
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 509
+=====crossval:======
+Accuracy: 0.58 (+/- 0.02)
+start date:  2016-08-01 00:00:00
+minutes after:  200
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 509
+=====crossval:======
+Accuracy: 0.60 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  300
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 509
+=====crossval:======
+Accuracy: 0.62 (+/- 0.02)
+start date:  2016-08-01 00:00:00
+minutes after:  300
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 509
+=====crossval:======
+Accuracy: 0.63 (+/- 0.00)
+start date:  2016-08-01 00:00:00
+minutes after:  400
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 509
+=====crossval:======
+Accuracy: 0.63 (+/- 0.03)
+start date:  2016-08-01 00:00:00
+minutes after:  400
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 509
+=====crossval:======
+Accuracy: 0.64 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  600
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 509
+=====crossval:======
+Accuracy: 0.55 (+/- 0.01)
+start date:  2016-08-01 00:00:00
+minutes after:  600
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5062120809262527 percent neg: 0.4937879190737473
+regular grabbing tweets
+# of tweets 509
+=====crossval:======
+Accuracy: 0.57 (+/- 0.03)
+start date:  2016-09-01 00:00:00
+minutes after:  200
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 13373
+=====crossval:======
+Accuracy: 0.60 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  200
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 13373
+=====crossval:======
+Accuracy: 0.60 (+/- 0.02)
+start date:  2016-09-01 00:00:00
+minutes after:  300
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 13373
+=====crossval:======
+Accuracy: 0.65 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  300
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 13373
+=====crossval:======
+Accuracy: 0.65 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  400
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 13373
+=====crossval:======
+Accuracy: 0.64 (+/- 0.00)
+start date:  2016-09-01 00:00:00
+minutes after:  400
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 13373
+=====crossval:======
+Accuracy: 0.63 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  600
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 13373
+=====crossval:======
+Accuracy: 0.56 (+/- 0.00)
+start date:  2016-09-01 00:00:00
+minutes after:  600
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 13373
+=====crossval:======
+Accuracy: 0.55 (+/- 0.02)
+start date:  2016-09-01 00:00:00
+minutes after:  200
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 3165
+=====crossval:======
+Accuracy: 0.63 (+/- 0.03)
+start date:  2016-09-01 00:00:00
+minutes after:  200
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 3165
+=====crossval:======
+Accuracy: 0.63 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  300
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 3165
+=====crossval:======
+Accuracy: 0.66 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  300
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 3165
+=====crossval:======
+Accuracy: 0.66 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  400
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 3165
+=====crossval:======
+Accuracy: 0.65 (+/- 0.00)
+start date:  2016-09-01 00:00:00
+minutes after:  400
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 3165
+=====crossval:======
+Accuracy: 0.65 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  600
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 3165
+=====crossval:======
+Accuracy: 0.56 (+/- 0.04)
+start date:  2016-09-01 00:00:00
+minutes after:  600
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 3165
+=====crossval:======
+Accuracy: 0.57 (+/- 0.03)
+start date:  2016-09-01 00:00:00
+minutes after:  200
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 573
+=====crossval:======
+Accuracy: 0.65 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  200
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 573
+=====crossval:======
+Accuracy: 0.66 (+/- 0.00)
+start date:  2016-09-01 00:00:00
+minutes after:  300
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 573
+=====crossval:======
+Accuracy: 0.67 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  300
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 573
+=====crossval:======
+Accuracy: 0.67 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  400
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 573
+=====crossval:======
+Accuracy: 0.64 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  400
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 573
+=====crossval:======
+Accuracy: 0.65 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  600
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 573
+=====crossval:======
+Accuracy: 0.58 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  600
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 573
+=====crossval:======
+Accuracy: 0.60 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  200
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 345
+=====crossval:======
+Accuracy: 0.67 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  200
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 345
+=====crossval:======
+Accuracy: 0.67 (+/- 0.02)
+start date:  2016-09-01 00:00:00
+minutes after:  300
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 345
+=====crossval:======
+Accuracy: 0.70 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  300
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 345
+=====crossval:======
+Accuracy: 0.69 (+/- 0.00)
+start date:  2016-09-01 00:00:00
+minutes after:  400
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 345
+=====crossval:======
+Accuracy: 0.70 (+/- 0.01)
+start date:  2016-09-01 00:00:00
+minutes after:  400
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 345
+=====crossval:======
+Accuracy: 0.70 (+/- 0.00)
+start date:  2016-09-01 00:00:00
+minutes after:  600
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 345
+=====crossval:======
+Accuracy: 0.61 (+/- 0.02)
+start date:  2016-09-01 00:00:00
+minutes after:  600
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5058531540847984 percent neg: 0.49414684591520164
+regular grabbing tweets
+# of tweets 345
+=====crossval:======
+Accuracy: 0.61 (+/- 0.03)
+start date:  2016-10-01 00:00:00
+minutes after:  200
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 7696
+=====crossval:======
+Accuracy: 0.64 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  200
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 7696
+=====crossval:======
+Accuracy: 0.64 (+/- 0.02)
+start date:  2016-10-01 00:00:00
+minutes after:  300
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 7696
+=====crossval:======
+Accuracy: 0.65 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  300
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 7696
+=====crossval:======
+Accuracy: 0.65 (+/- 0.02)
+start date:  2016-10-01 00:00:00
+minutes after:  400
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 7696
+=====crossval:======
+Accuracy: 0.65 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  400
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 7696
+=====crossval:======
+Accuracy: 0.65 (+/- 0.00)
+start date:  2016-10-01 00:00:00
+minutes after:  600
+minimum retweets:  0
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 7696
+=====crossval:======
+Accuracy: 0.66 (+/- 0.02)
+start date:  2016-10-01 00:00:00
+minutes after:  600
+minimum retweets:  0
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 7696
+=====crossval:======
+Accuracy: 0.65 (+/- 0.02)
+start date:  2016-10-01 00:00:00
+minutes after:  200
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 1782
+=====crossval:======
+Accuracy: 0.68 (+/- 0.02)
+start date:  2016-10-01 00:00:00
+minutes after:  200
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 1782
+=====crossval:======
+Accuracy: 0.68 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  300
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 1782
+=====crossval:======
+Accuracy: 0.68 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  300
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 1782
+=====crossval:======
+Accuracy: 0.68 (+/- 0.00)
+start date:  2016-10-01 00:00:00
+minutes after:  400
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 1782
+=====crossval:======
+Accuracy: 0.65 (+/- 0.00)
+start date:  2016-10-01 00:00:00
+minutes after:  400
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 1782
+=====crossval:======
+Accuracy: 0.66 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  600
+minimum retweets:  1
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 1782
+=====crossval:======
+Accuracy: 0.63 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  600
+minimum retweets:  1
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 1782
+=====crossval:======
+Accuracy: 0.64 (+/- 0.00)
+start date:  2016-10-01 00:00:00
+minutes after:  200
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 339
+=====crossval:======
+Accuracy: 0.71 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  200
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 339
+=====crossval:======
+Accuracy: 0.71 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  300
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 339
+=====crossval:======
+Accuracy: 0.68 (+/- 0.00)
+start date:  2016-10-01 00:00:00
+minutes after:  300
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 339
+=====crossval:======
+Accuracy: 0.68 (+/- 0.00)
+start date:  2016-10-01 00:00:00
+minutes after:  400
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 339
+=====crossval:======
+Accuracy: 0.65 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  400
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 339
+=====crossval:======
+Accuracy: 0.66 (+/- 0.00)
+start date:  2016-10-01 00:00:00
+minutes after:  600
+minimum retweets:  5
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 339
+=====crossval:======
+Accuracy: 0.68 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  600
+minimum retweets:  5
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 339
+=====crossval:======
+Accuracy: 0.68 (+/- 0.00)
+start date:  2016-10-01 00:00:00
+minutes after:  200
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 204
+=====crossval:======
+Accuracy: 0.74 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  200
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 204
+=====crossval:======
+Accuracy: 0.74 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  300
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 204
+=====crossval:======
+Accuracy: 0.74 (+/- 0.02)
+start date:  2016-10-01 00:00:00
+minutes after:  300
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 204
+=====crossval:======
+Accuracy: 0.73 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  400
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 204
+=====crossval:======
+Accuracy: 0.75 (+/- 0.01)
+start date:  2016-10-01 00:00:00
+minutes after:  400
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 204
+=====crossval:======
+Accuracy: 0.74 (+/- 0.00)
+start date:  2016-10-01 00:00:00
+minutes after:  600
+minimum retweets:  10
+model type:  <class 'sklearn.naive_bayes.MultinomialNB'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 204
+=====crossval:======
+Accuracy: 0.73 (+/- 0.02)
+start date:  2016-10-01 00:00:00
+minutes after:  600
+minimum retweets:  10
+model type:  <class 'sklearn.linear_model.logistic.LogisticRegression'>
+perent pos: 0.5065954571777878 percent neg: 0.4934045428222122
+regular grabbing tweets
+# of tweets 204
+=====crossval:======
+Accuracy: 0.73 (+/- 0.01)

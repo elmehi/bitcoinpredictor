@@ -10,6 +10,10 @@ import got3
 from pymongo import MongoClient
 import re
 
+db = MongoClient("mongodb://104.236.1.250:27017")['bitcoin_scraped']
+db.authenticate('meir', 'PreemPalver', source='bitcoin_scraped')
+collection = db['scraped1']
+
 f = open('errorfile', 'w') 
 
 queries = [
@@ -29,7 +33,7 @@ users = ['BitcoinMagazine', 'BitcoinPosts', 'BitcoinForums', 'Coinsecure', 'coin
 
 '''  -------------------------------------------------------------------------------- '''
 def getTweets(query, date, user):
-    n = 40
+    n = 100
     d_start = str(date)
     d_end = str(date + timedelta(1))
     description =  d_start + '\n'
@@ -53,7 +57,6 @@ def getTweets(query, date, user):
 def modify(text):
     return re.split('http', text)[0]
 
-
 def tweetTo_d(tweet):
     # assert len(tweet) == 1
     tweet_d = {}
@@ -73,10 +76,6 @@ def tweetTo_d(tweet):
     return tweet_d
 
 def checkTwitter(date):
-    db = MongoClient("mongodb://104.236.1.250:27017")['bitcoin_scraped']
-    db.authenticate('meir', '', source='bitcoin_scraped')
-    collection = db['scraped1']
-
     for query in queries:
         results = getTweets(query, date, 0)
         if results == None: 
